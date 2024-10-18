@@ -12,11 +12,37 @@
     <!-- Global -->
     <link rel="stylesheet" href="./css/globais.css">
     
+    <!-- Seção -->
+    <link rel="stylesheet" href="./css/sections/header.css">
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </head>
 <body>
-    <header class="header"></header>
+    <header class="header">
+        <div class="container">
+            <div class="row justify-content-between align-items-center">
+                <a href="#">
+                    <h1 class="logo">LA</h1>
+                </a>
+
+                <nav>
+                    <input id="menu-hamburguer" type="checkbox">
+
+                    <label for="menu-hamburguer">
+                        <div class="menu">
+                            <span class="hamburguer"></span>
+                        </div>
+                    </label>
+
+                    <ul>
+                        <li><a href="#sobre-mim">Sobre mim</a></li>
+                        <li><a href="#habilidades">Habilidades</a></li>
+                        <li><a href="#projetos">Meus projetos</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
 
     <section class="home"></section>
 
