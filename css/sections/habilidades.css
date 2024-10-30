@@ -16,8 +16,8 @@
 }
 
 .habilidades .container-habilidades .habilidade ul {
-    font-size: 1.8rem;
     font-family: var(--fonte-secundaria);
+    font-size: 1.8rem;
     line-height: 30px;
 }
 
