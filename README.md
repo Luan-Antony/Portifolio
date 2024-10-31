@@ -9,6 +9,3 @@ Site criado para expressar minhas habilidades com HTML e CSS responsivos, compar
 
 ### Layout para Desktop
 <img src="/layouts/Portifolio-desktop.gif">
-
-### Layout para Mobile
-<img src="/layouts/Portifolio-mobile.gif">
