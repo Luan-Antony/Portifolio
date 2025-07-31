@@ -1,4 +1,4 @@
-# Meu Portfólio Pessoal
+# Meu Portfólio Pessoal (outdate)
 
 Site criado para expressar minhas habilidades com HTML e CSS responsivos, compartilhar minhas habilidades, outros projetos e meus contatos
 
